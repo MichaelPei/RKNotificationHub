@@ -11,7 +11,7 @@
 
 //%%% default diameter
 CGFloat const RKNotificationHubDefaultDiameter = 30;
-static CGFloat const kCountMagnitudeAdaptationRatio = 0.3;
+static CGFloat const kCountMagnitudeAdaptationRatio = 0.45;
 //%%% pop values
 static CGFloat const kPopStartRatio = .85;
 static CGFloat const kPopOutRatio = 1.05;
